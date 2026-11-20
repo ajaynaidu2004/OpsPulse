@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+**/vendor/
+**/node_modules/
+**/dist/
+**/.phpunit.cache/
+**/storage/*.key
+**/bootstrap/cache/*.php
+*.log
+*.exe
+*.out
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
